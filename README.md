@@ -1,5 +1,6 @@
-# Diabetes Prediction Using Supervised Learning techniques.
+This is a project on an E-commerce Dataset, a UK real-world transaction data that offers valuable insights into customer behavior, sales trends, and market dynamics, ideal for data analysts and businesses seeking to optimize their online retail strategies. 
 
+This data was gotten from Kagglel Link (https://www.kaggle.com/datasets)
 # Project/Goals
 The ultimate goal of the project is to gain insights from the data sets and communicate these insights to stakeholders using appropriate visualizations and metrics to make informed decisions based on the business questions asked.
 Questions asked:
