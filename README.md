@@ -33,6 +33,7 @@ Step 3: EDA.exploratory data analysis,
 - Sales trend over the months show that there was a reduction in sales from December 2018 till February 2019 which had the lowest drop in sales followed by a slight increase in March 2019 and another sales reduction in April 2019; gradual increase in sales was withnessed starting from August till November 2019 having the highest sales. December sales could not be assertained because of limited available data.
 - The most frequently purchased product is popcorn holder.
 - United kingdom is the most profitable country while united Arab Emirate is the least profitable country in this e-commerse business transaction.
+- 5 most profitable customers  with customer no(14646,18102,12415,17450,14911)  are from United kingdom.
  # conclusion
  -
 
