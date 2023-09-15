@@ -1,6 +1,6 @@
-This is a project on an E-commerce Dataset, a UK real-world transaction data that offers valuable insights into customer behavior, sales trends, and market dynamics, ideal for data analysts and businesses seeking to optimize their online retail strategies. 
+This project is an E-commerce sales transaction Dataset of a London based store, selling gifts and homewares. Purchases were made by customers worldwide  and the data  obtained  offered valuable insights into customer behavior, sales trends, and market dynamics; ideal for data analysts and businesses seeking to optimize their online retail strategies. 
 
-This data was gotten from Kagglel Link (https://www.kaggle.com/datasets)
+This data was gotten from Kaggle Link (https://www.kaggle.com/datasets)
 # Project/Goals
 The ultimate goal of the project is to gain insights from the data sets and communicate these insights to stakeholders using appropriate visualizations for decision making. 
 
@@ -24,7 +24,6 @@ Step 2: Loading and understanding the dataset..
 
 Step 3: EDA.exploratory data analysis and visualization. 
 - Data cleaning.
-- Create a displot, histplot, scatterplot and pairplot to look at the distributions of different variables and their correlation.
 - Learn the trend and patterns.
 
 # Results
@@ -33,8 +32,8 @@ Step 3: EDA.exploratory data analysis and visualization.
 - United kingdom is the most profitable country while united Arab Emirate is the least profitable country in this e-commerce business transactions.
 - 5 most profitable customers  with customer no(14646,18102,12415,17450,14911)  are from United kingdom.
 - The top 5 high income product worldwide are  popcorn holder, world  war  gliders Asstd designs, paper craft little Birdie, T-light holder, Bird Ornament.
-
  # conclusion
- -
+ - It has been identified that the most profitable customer after segmentation are from the united kingdom,the store can tailor the market effort to the product they bought most.
+ - The company should invest in effective online marketing such as pay-per-click advertisement, content marketing and email marketing.
 
 
