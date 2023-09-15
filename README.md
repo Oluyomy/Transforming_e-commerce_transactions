@@ -26,11 +26,13 @@ Step 3: EDA.exploratory data analysis and visualization.
 - Learn the trend and patterns.
 
 # Results
-- Sales trend over the months show that there was a reduction in sales from December 2018 till February 2019 which had the lowest drop in sales followed by a slight increase in March 2019 and another sales reduction in April 2019; gradual increase in sales was withnessed starting from August till November 2019 having the highest sales. December sales could not be assertained because of limited available data.
+- Sales trend over the months show that there was a reduction in sales from December 2018 till February 2019 which had the lowest drop in sales followed by a slight increase in March 2019 and another sales reduction in April 2019; gradual increase in sales was withnessed starting from August till November 2019 having the highest sales. 
+December sales could not be assertained because of limited available data.
 - The most frequently purchased product is popcorn holder.
 - United kingdom is the most profitable country while united Arab Emirate is the least profitable country in this e-commerce business transactions.
 - 5 most profitable customers  with customer no(14646,18102,12415,17450,14911)  are from United kingdom.
 - The top 5 high income product worldwide are  popcorn holder, world  war  gliders Asstd designs, paper craft little Birdie, T-light holder, Bird Ornament.
+
  # conclusion
  - It has been identified that the most profitable customer after segmentation are from the united kingdom,the store can tailor the market effort to the product they bought most.
  - The company should invest in effective online marketing such as pay-per-click advertisement, content marketing and email marketing.
