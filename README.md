@@ -11,7 +11,7 @@ Questions:
 - Identify countries with the highest and lowest profit.
 - Who are the most profitable customers?
 - What are the 5 top high income product worldwide?
-- what are the strategies that could be recommended to gain more profit in the business?
+- what are the recommendation for more profit in the business?
 
 - 
 # Process
