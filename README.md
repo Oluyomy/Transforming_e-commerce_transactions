@@ -13,7 +13,6 @@ Questions:
 - What are the 5 top high income product worldwide?
 - what are the recommendations for more profit in the business?
 
-- 
 # Process
 Step 1: Obtaining data
 
